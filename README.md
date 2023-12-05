@@ -14,7 +14,7 @@ Ce test se penche sur différentes facettes de votre processus de matching. Le c
 
 ## Comment Accéder aux Détails
 
-Pour plonger davantage dans cette analyse, explorez le fichier Jupyter Notebook "Test_Angele_Mendy.ipynb". Si vous avez des questions ou des idées à partager, n'hésitez pas à me contacter à angele.mendy.data@gmail.com.
+Pour plonger davantage dans cette analyse, explorez le fichier Jupyter Notebook "Analyse_Matching.ipynb". Si vous avez des questions ou des idées à partager, n'hésitez pas à me contacter à angele.mendy.data@gmail.com.
 
 Gardez le bénévolat vibrant et le matching prospère ! 🌟
 Angele MENDY
