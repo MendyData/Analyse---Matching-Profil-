@@ -4,7 +4,7 @@ Bienvenue dans l'analyse du Matching Jeunes-Bénévoles, réalisée avec soin po
 
 ## Aperçu Rapide
 
-Ce test se penche sur différentes facettes de votre processus de matching. Le critère clé, notre **"b_score"**, émerge comme une étoile brillante, liée positivement à des indicateurs comme la **durée du binôme** et la **découverte des besoins**. Cependant, des surprises attendent, avec des corrélations inattendues, comme le lien négatif entre le score et le fait de **postuler spontanément**.
+Ce test se penche sur différentes facettes de votre processus de matching. Le critère clé, note **"b_score"**, émerge comme une étoile brillante, liée positivement à des indicateurs comme la **durée du binôme** et la **découverte des besoins**. Cependant, des surprises attendent, avec des corrélations inattendues, comme le lien négatif entre le score et le fait de **postuler spontanément**.
 
 ## Top 3 des Révélations
 
